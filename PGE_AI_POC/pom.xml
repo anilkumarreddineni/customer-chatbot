@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>PGE AI POC</name>
-    <description>POC for PG&E Customer Automation using LLM</description>
+    <description>POC for PGE Customer Automation using LLM</description>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
